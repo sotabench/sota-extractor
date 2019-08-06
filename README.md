@@ -2,7 +2,7 @@
 
 Aggregate public SOTA tables that are shared under **a free licences**. 
 
-Not free as in free beer!
+Free as a free turkey sandwitch!
 
 Download the scrapped data or run the scrappers yourself the get the latest data. 
 
