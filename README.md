@@ -2,6 +2,8 @@
 
 Aggregate public SOTA tables that are shared under **a free licences**. 
 
+Free as in free beer!
+
 Download the scrapped data or run the scrappers yourself the get the latest data. 
 
 In the future, we are planning to automate the process of extracting tasks, datasets and results from papers. 
